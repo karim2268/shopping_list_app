@@ -11,7 +11,7 @@ class ShoppingListScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Ma Liste de Courses'),
+        title: Text('ُEasy Shopping'),
         centerTitle: true,
       ),
       body: Column(
